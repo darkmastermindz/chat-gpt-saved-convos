@@ -42,7 +42,7 @@ You can use this function by calling checkAndReturnDefault(input, defaultValue) 
 ## Hansel Wei:
 no write this in java
 
-ChatGPT (Jan 9 Version):
+## ChatGPT (Jan 9 Version):
 ```java
 import java.math.BigDecimal;
 
