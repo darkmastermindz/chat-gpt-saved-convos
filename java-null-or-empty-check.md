@@ -72,3 +72,7 @@ public class NullOrEmptyCheck {
 This is the implementation of the generic function in Java. The main method uses the function with example inputs of String, Integer, and BigDecimal types, and demonstrates how the function can be used with any type.
 It's important to notice that the function uses the type T and not the Object type, this means that the function is type safe and you can use it with any type, it also accepts the default value of the same type as the input value.
 You can use this function in any class as a static method and call it passing the input value and the default value of any type.
+
+
+# Hansel's Notes
+- Consider using Optionals https://www.oracle.com/technical-resources/articles/java/java8-optional.html
