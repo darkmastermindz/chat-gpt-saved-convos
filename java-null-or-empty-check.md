@@ -1,3 +1,5 @@
+# ChatGPT Jan 28, 2023
+
 ## Hansel Wei:
 write me a java function that takes in a String, does a null or empty check, and returns a big decimal with 0 if null or empty is detected
 
