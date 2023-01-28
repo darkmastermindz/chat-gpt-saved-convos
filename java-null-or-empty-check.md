@@ -1,4 +1,4 @@
-Hansel Wei
+## Hansel Wei:
 write me a java function that takes in a String, does a null or empty check, and returns a big decimal with 0 if null or empty is detected
 
 ChatGPT (Jan 9 Version):
@@ -20,7 +20,7 @@ This function takes in a String as input and checks if it is null or empty. If i
 
 now do the same for all java types
 
-ChatGPT (Jan 9 Version):
+## ChatGPT (Jan 9 Version):
 Here's a more generic version of the function that works for all Java types, using the Object type as the parameter:
 
 ```kotlin
@@ -39,7 +39,7 @@ This function takes in two arguments, an input of type T and a default value of 
 You can use this function by calling checkAndReturnDefault(input, defaultValue) and passing in the input value and default value of any type, for example, checkAndReturnDefault(inputString, ""), checkAndReturnDefault(inputInteger, 0), checkAndReturnDefault(inputBigDecimal, new BigDecimal(0)), etc.
 
 
-Hansel Wei:
+## Hansel Wei:
 no write this in java
 
 ChatGPT (Jan 9 Version):
